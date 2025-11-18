@@ -2,7 +2,7 @@
              
 ### Hi there 👋
 
-I'm a French stuent on a work-study basis in engineering school at ISIMA
+I'm a software engineer graduate from ISIMA at Clermond-Ferrand.
 
 <!--
 Here are some ideas to get you started:
